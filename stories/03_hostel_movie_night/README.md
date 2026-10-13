@@ -4,6 +4,10 @@ Faith promised a hostel movie night, but a full movie costs more data than her b
 
 This story includes all the OOP concepts from Weeks 1 to 6. The numbers are made up for learning.
 
+## Group assignment
+
+The group task is due **Thursday, 15 October 2026**. [Choose from six extensions](EXTENSIONS.md), with one extension per member: choose any five for a five-person group, or all six for a six-person group. Follow the [fork, branch, review and merge instructions](../../GROUP_ASSIGNMENT.md).
+
 ## Run this story
 
 If you have not downloaded the files yet, follow [Start here](../../START_HERE.md).

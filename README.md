@@ -13,6 +13,12 @@ This repository is a home for our class examples. We will add more examples as t
 
 You do not need a GitHub account to download or read these examples. You need Python 3 to run them. The examples work without internet after you have downloaded them.
 
+## Group assignment: due Thursday, 15 October 2026
+
+Use one group fork and work together on one story. A five-person group chooses any five of its six extensions. A six-person group completes all six. Each member does one extension on their own branch, opens a pull request, reviews every other member's work with a comment, and has their own pull request merged into the group's `main` branch.
+
+**[Read the group instructions](GROUP_ASSIGNMENT.md)**, then open `EXTENSIONS.md` in your story folder.
+
 ## Stories: Weeks 1 to 6
 
 Each story contains **all the OOP concepts covered through Week 6**. You can start with any story. You do not need to finish another one first.
@@ -26,10 +32,11 @@ Each story contains **all the OOP concepts covered through Week 6**. You can sta
 | [Campus Talent Show](stories/05_campus_talent_show/README.md) | MC Joel must fit the performances into the time available. |
 | [The Print-Shop Plot Twist](stories/06_print_shop_plot_twist/README.md) | Nakato's report is ready, but colour printing costs more than she has. |
 
-Every story folder has three files:
+Every story folder includes these files:
 
 - `README.md`: the story and a plain-English explanation.
 - `story.py`: the complete Python program, with comments.
+- `EXTENSIONS.md`: six extension choices and instructions for your group.
 - `expected_output.txt`: what the unchanged program should print.
 
 ## How the ideas fit together
