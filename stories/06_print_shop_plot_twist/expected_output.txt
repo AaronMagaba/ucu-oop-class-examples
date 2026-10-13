@@ -1,0 +1,25 @@
+=== THE PRINT-SHOP PLOT TWIST ===
+Nakato's report has 4 pages. Her budget is less colourful than the cover.
+Black-and-white print is available from the Mukono print desk.
+Quote: UGX 800
+Colour print is available from the Mukono print desk.
+Quote: UGX 4,000
+We believe in your report! Student black-and-white is available from the Mukono print desk.
+Quote: UGX 600
+PDF archive: zero printing cost, no paper to lose in a taxi.
+Quote: UGX 0
+Colour print is over budget. The cover can survive without colour.
+Nakato produces Student black-and-white: UGX 600.
+Nakato produces PDF for the group archive: UGX 0.
+Okello produces Black-and-white print: UGX 800.
+Nakato: UGX 400; outputs: 2
+Okello: UGX 0; outputs: 1
+MRO (look left to right):
+FriendlyStudentPrint
+FriendlyMixin
+StudentPrint
+BlackAndWhite
+OutputOption
+ABC
+object
+Ending: report printed, PDF archived, and the group can finally exhale.

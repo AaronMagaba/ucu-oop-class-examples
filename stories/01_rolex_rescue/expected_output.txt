@@ -1,0 +1,19 @@
+=== THE ROLEX RESCUE ===
+Rolex costs UGX 3,000
+Kikomando costs UGX 2,500
+Chef's special! Avocado rolex costs UGX 3,500
+Home-packed lunch: the auntie sponsorship package.
+Sarah gets Avocado rolex. Lunch is saved!
+Sarah: Kikomando is over budget. We shall admire it.
+Joel gets Kikomando. Lunch is saved!
+Sarah: UGX 1,500; orders: 1
+Joel: UGX 500; orders: 1
+MRO (look left to right):
+FeaturedRolex
+HypeMixin
+AvocadoRolex
+Rolex
+Meal
+ABC
+object
+Ending: Sarah has lunch, Joel has lunch, and nobody owes the chef.

@@ -1,0 +1,22 @@
+=== CAMPUS TALENT SHOW ===
+MC Joel promised to finish on time. The dancers brought an encore.
+Mukono Movers dance: 6 minutes at UCU student talent afternoon.
+Achen's spoken word: 4 minutes at UCU student talent afternoon.
+Mukono, make some noise! Mukono Movers: short set dance: 3 minutes at UCU student talent afternoon.
+Audience wave: one minute, everybody gets to be famous.
+MC Joel books Mukono Movers: short set dance.
+No slot for Mukono Movers dance. The timetable has entered the chat.
+MC Joel books Achen's spoken word.
+MC Joel books Audience wave.
+MC Faith books Mukono Movers dance.
+Joel: 0 minutes left; acts: 3
+Faith: 0 minutes left; acts: 1
+MRO (look left to right):
+HeadlineDance
+ApplauseMixin
+ShortDance
+Dance
+Performance
+ABC
+object
+Ending: everyone gets a turn, and Joel's timetable survives.

@@ -1,0 +1,25 @@
+=== THE MUKONO MISSION ===
+Amina left her flash drive in town. Her presentation is today!
+Kato's boda is ready for the Mukono mission.
+Quote: UGX 3,000
+Mukono taxi is ready for the Mukono mission.
+Quote: UGX 2,000
+Helmet on, let's go! Nambi's boda is ready for the Mukono mission.
+Quote: UGX 2,500
+Walk with a friend: free transport, premium conversation.
+Quote: UGX 0
+Amina travels by Nambi's boda: UGX 2,500.
+Amina travels by Mukono taxi: UGX 2,000.
+Amina: not enough money for Kato's boda.
+Peter travels by Walk with a friend: UGX 0.
+Amina: UGX 500; legs: 2
+Peter: UGX 2,000; legs: 1
+MRO (look left to right):
+CheerfulStudentBoda
+CheerfulMixin
+StudentBoda
+Boda
+Transport
+ABC
+object
+Ending: flash drive recovered. The slides live to present another day.

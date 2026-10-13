@@ -1,0 +1,22 @@
+=== HOSTEL MOVIE NIGHT ===
+Faith promised a movie night. Her bundle has other ideas.
+Mukono Mystery: 700 MB at Mukono hostel lounge
+Afrobeats break: 100 MB at Mukono hostel lounge
+Bring your own popcorn! Mukono Mystery: data saver: 350 MB at Mukono hostel lounge
+Storytelling circle: zero MB, unlimited plot twists.
+Mukono Mystery needs too much data. Nobody hotspot secretly!
+Faith's group enjoys Mukono Mystery: data saver.
+Faith's group enjoys Afrobeats break.
+Faith's group enjoys Hostel storytelling circle.
+David's group enjoys Afrobeats break.
+Faith: 50 MB; activities: 3
+David: 100 MB; activities: 1
+MRO (look left to right):
+FeaturedMovie
+HypeMixin
+DataSaverMovie
+StreamedMovie
+Entertainment
+ABC
+object
+Ending: the stories are dramatic; the data balance is peaceful.

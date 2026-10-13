@@ -1,0 +1,22 @@
+=== THE FIVE-A-SIDE FINAL ===
+One final attack. Brian wants skills; the energy tank wants teamwork.
+Mukono Meteors: Brian's dribble needs 30 energy.
+Mukono Meteors: Quick team pass needs 10 energy.
+The crowd is standing! Mukono Meteors: Achen's dribble needs 20 energy.
+Water break: tactical discussion, zero energy cost in this model.
+Captain Brian chooses Achen's dribble. Done!
+Not enough energy for Brian's dribble. Pass the ball, please!
+Captain Brian chooses Quick team pass. Done!
+Captain Brian chooses Water break. Done!
+Captain Ruth chooses Brian's dribble. Done!
+Brian: 5 energy; actions: 3
+Ruth: 10 energy; actions: 1
+MRO (look left to right):
+CrowdFavourite
+CommentaryMixin
+SmartDribble
+Dribble
+Attack
+ABC
+object
+Ending: the final pass creates the winner. Teamwork gets the celebration.
