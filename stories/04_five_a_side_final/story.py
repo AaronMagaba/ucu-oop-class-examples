@@ -78,9 +78,19 @@ class WaterBreak:  # Unrelated to Attack but supports the same calls.
 
     def describe(self):
         return "Water break: tactical discussion, zero energy cost in this model."
+    
 
 
 # ACT 4: The match HAS-A tank; actions are borrowed collaborators.
+# EXTENSION 3: TeamHuddle demonstrates duck typing.
+class TeamHuddle:
+    name = "Team huddle"
+
+    def effort(self):
+        return 0
+
+    def describe(self):
+        return "Team huddle: tactical discussion, zero energy cost."
 class Match:
     def __init__(self, captain, points):
         self.captain = captain
