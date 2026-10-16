@@ -105,12 +105,18 @@ def discuss_tactics(actions):  # Week 1 function, parameter, list, for loop.
     for action in actions:
         print(action.describe())  # Polymorphism: one request, varied responses.
 
+class TrainedDribble(SmartDribble):
+    
+    def effort(self):
+        # Reuses SmartDribble's effort (which is 20) and subtracts 5
+        return super().effort() - 5        
+
 
 def main():
     print("=== THE FIVE-A-SIDE FINAL ===")
     print("One final attack. Brian wants skills; the energy tank wants teamwork.")
     actions = [Dribble("Brian"), TeamPass("Quick team pass"),
-               CrowdFavourite("Achen"), WaterBreak()]
+               CrowdFavourite("Achen"), WaterBreak(), TrainedDribble("Brian")] 
     discuss_tactics(actions)  # WaterBreak fits by behaviour alone: duck typing.
     brian = Match("Brian", 35)
     ruth = Match("Ruth", 40)  # Independent state in a second object.
@@ -118,6 +124,7 @@ def main():
     print(brian.play(actions[0]))  # Refused; 15 cannot pay 30.
     print(brian.play(actions[1]))  # Teamwork costs 10.
     print(brian.play(actions[3]))  # Change collaborator without changing Match.
+    print(ruth.play(actions[4]))   # TrainedDribble costs 15 (20 - 5).
     print(ruth.play(actions[0]))
     print(f"Brian: {brian.energy.remaining} energy; actions: {brian.completed_actions}")
     print(f"Ruth: {ruth.energy.remaining} energy; actions: {ruth.completed_actions}")
