@@ -8,11 +8,11 @@ Ch: A1, A2, A4
 - Explanation: 
 
 ## A2: Errors the story can explain (Week 8)
-- Members responsible: JULIET , [Member 4 name]
+- Members responsible: Resty Abiko M25B13/044, NAPASIRI JULIET M25B13/053
 - Merged PRs: 
 - Explanation: 
 
 ## A4: A small factory, clearer responsibilities and tests (Weeks 9-10)
-- Members responsible: [Member 5 name]
-- Merged PRs: [add links later]
+- Members responsible: Martha Rita Aber  B33225
+- Merged PRs: 
 - Explanation:
