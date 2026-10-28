@@ -3,9 +3,11 @@
 Ch: A1, A2, A4
 
 ## A1: Values that can print, compare and add (Week 7)
-- Members responsible: MAGABA AARON GIDEON M25B13/043, OKWARE GERALD JUNIOR S25B13/002
-- Merged PRs: 
-- Explanation: 
+- Members responsible: MAGABA AARON GIDEON M25B13/043, 
+- Merged PRs: https://github.com/slubambo/ucu-oop-class-examples/pull/85 (EnergyAmount class)
+- Demo command: py -3 stories/04_five_a_side_final/demo_a1_energy_amount.py
+- Check command: py -3 stories/04_five_a_side_final/check_a1_energy_amount.py
+- Explanation: EnergyAmount holds a non-negative whole number of energy and refuses negatives, fractions and Booleans. It has a friendly __str__ ("3,000 energy"), a developer __repr__ ("EnergyAmount(3000)"), __eq__ and __add__. Adding returns a new EnergyAmount and leaves both operands unchanged. Unsupported operand types return NotImplemented (not NotImplementedError). Match.preview_total(choices) asks each choice for effort() and returns the combined EnergyAmount without spending resources or changing history.
 
 ## A2: Errors the story can explain (Week 8)
 - Members responsible: Resty Abiko M25B13/044, NAPASIRI JULIET M25B13/053
